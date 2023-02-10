@@ -8,7 +8,7 @@
 <h3 align="center">📇Contact me on: </h3>
 
 <p align="center">
-<a href="https://twitter.com/sm888sm" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /> </a>
+<a href="https://twitter.com/sm_888_sm" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /> </a>
 <a href="https://linkedin.com/in/sm888sm" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://discordapp.com/users/657758224501702667" target="_blank" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://t.me/sm888_sm" target="_blank" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
