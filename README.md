@@ -1,8 +1,28 @@
-# ⚡💎 Hello everyone, I'm Septian 👋
+# ⚡💎 Hello everyone, welcome 🧑‍💻
 
+* 👨‍💻 I'm a software developer
+* 📚 Currently learning microservices, QA automation and other newer stuffs
+* 🛠 Looking for collaborations to create some portfolio projects
+* 💬 Feel free to ask me anything 👍
+
+### 📇Contact me on:
+
+<p align="center">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" href="https://twitter.com/sm888sm" target="_blank" />
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="https://linkedin.com/in/sm888sm" target="_blank" />
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" href="https://discordapp.com/users/657758224501702667" target="_blank" />
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href="https://t.me/sm888_sm" target="_blank" />
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" href="mailto:sm888sm@proton.me" target="_blank" />
+</p> 
+  
 ## ⚡💎 Stats
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sm888sm&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm888sm&show_icons=true&theme=tokyonight]) |
-| ----- | ----- |
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sm888sm&show_icons=true&count_private=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm888sm&count_private=true&theme=tokyonight" />
+</p>
 
 ## ⚡💎 Stacks
 
