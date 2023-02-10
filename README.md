@@ -17,11 +17,15 @@
   
 ## ⚡💎 Stats
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm888sm&count_private=true&theme=tokyonight" />
+</p>
+
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sm888sm&show_icons=true&count_private=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm888sm&count_private=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=sm888sm&theme=tokyonight" />
 </p>
 
 ## ⚡💎 Stacks
