@@ -2,6 +2,8 @@
 
 Welcome to my corner of the coding universe! I'm a developer who loves to explore new technologies and bring ideas to life. On my GitHub, you'll find a collection of projects that showcase my skills and passion for problem-solving. From building fun side projects to experimenting with the latest frameworks, I enjoy pushing the limits of what's possible with code. So dive in and let's code some magic together!
 
+I'm just getting started with open-sourcing my projects, but I'm excited to share my ideas and collaborations with the community. Think of this Github account as a blank canvas, ready to be filled with innovative and creative coding masterpieces. Stay tuned for updates and feel free to follow along on my coding journey.
+
 * 👨‍💻 I'm a software developer
 * 📚 Currently learning microservices, QA automation and other newer stuffs
 * 🛠 Looking for collaborations to create some portfolio projects
