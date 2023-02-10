@@ -1,11 +1,11 @@
-# ⚡💎 Hello everyone, welcome 🧑‍💻
+<h1 align="center"> ⚡💎 Hello everyone, welcome 🧑‍💻 </h1>
 
 * 👨‍💻 I'm a software developer
 * 📚 Currently learning microservices, QA automation and other newer stuffs
 * 🛠 Looking for collaborations to create some portfolio projects
 * 💬 Feel free to ask me anything 👍
 
-### 📇Contact me on:
+<h3 align="center">📇Contact me on: </h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" href="https://twitter.com/sm888sm" target="_blank" />
