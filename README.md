@@ -17,7 +17,9 @@ I'm just getting started with open-sourcing my projects, but I'm excited to shar
 <a href="https://discordapp.com/users/657758224501702667" target="_blank" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://t.me/sm888_sm" target="_blank" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:sm888sm@proton.me" target="_blank" ><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-</p> 
+</p>
+
+My old github : [Github](https://github.com/sm1234sm)
   
 ## ⚡💎 Stats
 <p align="center">
