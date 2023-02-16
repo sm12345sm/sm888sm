@@ -9,6 +9,8 @@ I'm just getting started with open-sourcing my projects, but I'm excited to shar
 * 🛠 Looking for collaborations to create some portfolio projects
 * 💬 Feel free to ask me anything 👍
 
+My old github : [Github](https://github.com/sm1234sm)
+
 <h3 align="center">📇Contact me on: </h3>
 
 <p align="center">
@@ -19,8 +21,6 @@ I'm just getting started with open-sourcing my projects, but I'm excited to shar
 <a href="mailto:sm888sm@proton.me" target="_blank" ><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 </p>
 
-My old github : [Github](https://github.com/sm1234sm)
-  
 ## ⚡💎 Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm888sm&count_private=true&theme=tokyonight" />
